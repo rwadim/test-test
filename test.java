@@ -10,6 +10,10 @@ public static void n111onmain(String args){
         String test = args;
         }
 
+public static void bbbbaaaadd(String args){
+        String test = args;
+        }
+
 public static void no222nmain(String args){
         String test = args;
         }
