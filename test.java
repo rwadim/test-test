@@ -1,3 +1,7 @@
+<head> 
+<title>Hello gt</title> 
+<script>console.log("hello git!")</script> 
+</head>
 public static void main(String[]args){
         String test = args[0];
 }
